@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": ".",
   "scripts": {
     "start": "node backend/index",
     "frontend": "npm start --prefix frontend",
